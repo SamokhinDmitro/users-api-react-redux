@@ -1,0 +1,15 @@
+.Layout{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.main{
+    padding: 20px 0;
+    background: #B0DD38;
+    display: flex;
+    flex-direction: column;
+    /*justifyContent: center;*/
+    flex-grow: 1
+}
